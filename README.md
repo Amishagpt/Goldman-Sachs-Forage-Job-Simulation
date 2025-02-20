@@ -36,10 +36,3 @@ B.Tech, Information Technology Engineering
 ### Requirements
 Hashcat
 Rockyou.txt
-
-### Usage
-hashcat -m 0 -a 0 -o decrypted.txt hashes.txt rockyou.txt # to crack pass
-hashcat -m 0 -a 0 -o decrypted.txt hashes.txt rockyou.txt --show # to see it again after 1st time decryption
-
-Author
-Amisha Gupta
